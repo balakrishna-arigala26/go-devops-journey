@@ -4,8 +4,9 @@ This repository documents my 6-week journey of learning the Go programming langu
 
 Progress
 
-✔ Day 1 - Go module + first binary completed
-⏳ Day 2 - Concurrency (Goroutines)
+✔ Day 1 – Go module + first binary completed  
+⏳ Day 2 – Concurrency (Goroutines)
+
 
 
 📂 Repository Structure
