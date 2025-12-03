@@ -11,6 +11,6 @@ Progress
 
 📂 Repository Structure
 
-week1/day1 - Go basics and first Go program
-week1/Day2 - (upcoming)
+- week1/day1 - Go basics and first Go program
+- week1/Day2 - (upcoming)
 
