@@ -5,12 +5,15 @@ This repository documents my 6-week journey of learning the Go programming langu
 Progress
 
 ✔ Day 1 – Go module + first binary completed  
-⏳ Day 2 – Concurrency (Goroutines)
+✔ Day 2 — Concurrency (Goroutines) completed  
+⏳ Day 3 — Channels & WaitGroups (next)   
+
 
 
 
 📂 Repository Structure
 
-- week1/day1 - Go basics and first Go program
-- week1/Day2 - (upcoming)
+- week1/day1 - Go basics and first Go program  
+- week1/day2 — Goroutines (Concurrency)  
+- week1/day3 — (upcoming)
 
