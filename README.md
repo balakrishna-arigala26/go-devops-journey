@@ -7,10 +7,12 @@ Progress
 ✔ Day 1 – Go module + first binary completed  
 ✔ Day 2 — Concurrency (Goroutines) completed  
 ✔ Day 3 — Channels + WaitGroups completed  
-⏳ Day 4 — Build CLI tool with flags (coming)
+✔ Day 4 — Built first CLI tool using flag package  
+⏳ Day 5 — File handling & JSON processing (coming)
 
 📂 Repository Structure
 
 - week1/day1 - Go basics and first Go program
 - week1/day2 — Goroutines (Concurrency)
 - week1/day3 — Channels + WaitGroup
+- week1/day4 — CLI tool using flag package
