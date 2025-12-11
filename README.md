@@ -9,7 +9,8 @@ Progress
 ✔ Day 3 — Channels + WaitGroups completed  
 ✔ Day 4 — Built first CLI tool using flag package  
 ✔ Day 5 — JSON parsing & file handling completed
-✔ Day 6 — Parallel API calls using Goroutines completed
+✔ Day 6 — Parallel API calls using Goroutines  
+✔ Day 7 — Relaiable API fetcher with retries, timeout, and logging completed
 
 📂 Repository Structure
 
@@ -19,3 +20,4 @@ Progress
 - week1/day4 — CLI tool using flag package
 - week1/day5 — JSON parsing CLI tool
 - week1/day6 — Parallel API fetcher using Goroutines
+- week1/day7 — Reliable API fetcher with retry logic + timeout + logging
