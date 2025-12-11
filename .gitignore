@@ -1,0 +1,14 @@
+# Ignore Go binaries (all days)
+week1/day1/day1
+week1/day2/day2
+week1/day3/day3
+week1/day4/greetcli
+week1/day5/userinfo
+week1/day6/posts-fetcher
+week1/day7/day7
+
+# Ignore any other binary files accidentally created
+*.exe
+*.out
+*.bin
+
