@@ -6,6 +6,8 @@ week1/day4/greetcli
 week1/day5/userinfo
 week1/day6/posts-fetcher
 week1/day7/day7
+week1/day8/logs.txt
+week1/day8/day8-logger
 
 # Ignore any other binary files accidentally created
 *.exe
