@@ -8,10 +8,10 @@ Progress
 ✔ Day 2 — Concurrency (Goroutines) completed  
 ✔ Day 3 — Channels + WaitGroups completed  
 ✔ Day 4 — Built first CLI tool using flag package  
-✔ Day 5 — JSON parsing & file handling completed
+✔ Day 5 — JSON parsing & file handling completed  
 ✔ Day 6 — Parallel API calls using Goroutines  
 ✔ Day 7 — Relaiable API fetcher with retries, timeout, and logging completed  
-✔ Day 8 — Built multiple logger implementations (console, file, JSON) using a single interface — a pattern widely used in Kubernetes and cloud-native tools.
+✔ Day 8 — Built multiple logger implementations (console, file, JSON) using a single interface — a pattern widely used in Kubernetes and cloud-native tools.  
 ✔ Day 9 — Go Error Handling (wrapping, custom errors, production patterns)
 
 📂 Repository Structure
