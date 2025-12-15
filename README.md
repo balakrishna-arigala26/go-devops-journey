@@ -12,6 +12,7 @@ Progress
 ✔ Day 6 — Parallel API calls using Goroutines  
 ✔ Day 7 — Relaiable API fetcher with retries, timeout, and logging completed  
 ✔ Day 8 — Built multiple logger implementations (console, file, JSON) using a single interface — a pattern widely used in Kubernetes and cloud-native tools.
+✔ Day 9 — Go Error Handling (wrapping, custom errors, production patterns)
 
 📂 Repository Structure
 
@@ -23,3 +24,4 @@ Progress
 - week1/day6 — Parallel API fetcher using Goroutines
 - week1/day7 — Reliable API fetcher with retry logic + timeout + logging
 - week1/day8 — Interfaces + Polymorphism
+- week1/day9 — Error Handling in Go

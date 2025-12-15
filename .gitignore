@@ -8,6 +8,7 @@ week1/day6/posts-fetcher
 week1/day7/day7
 week1/day8/logs.txt
 week1/day8/day8-logger
+week1/day9/day9-errors
 
 # Ignore any other binary files accidentally created
 *.exe
