@@ -1,17 +1,32 @@
-# Ignore Go binaries (all days)
-week1/day1/day1
-week1/day2/day2
-week1/day3/day3
-week1/day4/greetcli
-week1/day5/userinfo
-week1/day6/posts-fetcher
-week1/day7/day7
-week1/day8/logs.txt
-week1/day8/day8-logger
-week1/day9/day9-errors
+# ----------------------------
+# Go binaries (ignore by location, not name)
+# ----------------------------
 
-# Ignore any other binary files accidentally created
+# Ignore binaries created inside day folders
+week1/**/app
+week1/**/*-app
+week1/**/*-logger
+week1/**/*-errors
+week1/**/posts-fetcher
+week1/**/userinfo
+week1/**/greetcli
+
+# ----------------------------
+# Logs & runtime files
+# ----------------------------
+*.log
+logs.txt
+
+# ----------------------------
+# OS / editor junk
+# ----------------------------
+.DS_Store
+.idea/
+.vscode/
+
+# ----------------------------
+# Platform binaries
+# ----------------------------
 *.exe
 *.out
 *.bin
-
