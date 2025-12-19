@@ -10,6 +10,7 @@ week1/**/*-errors
 week1/**/posts-fetcher
 week1/**/userinfo
 week1/**/greetcli
+week2/**/app
 
 # ----------------------------
 # Logs & runtime files
