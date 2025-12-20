@@ -18,7 +18,8 @@ The goal is to move from Go fundamentals to production-ready patterns used in re
 ✔ Day 8 — Interfaces & polymorphism (multiple loggers via a single contract)  
 ✔ Day 9 — Go error handling (wrapping, custom errors, production patterns)  
 ✔ Day 10 — Real-world Go project structure (`cmd/`, `internal/`, dependency injection)  
-✔ Day 11 — Configuration & Environment Variables (12-Factor App: Config)
+✔ Day 11 — Configuration & Environment Variables (12-Factor App: Config)  
+✔ Day 12 — Flags + Environment Variables (priority-based configuration)
 
 ---
 
@@ -35,7 +36,7 @@ The goal is to move from Go fundamentals to production-ready patterns used in re
 - `week1/day9` — Error handling in Go
 - `week1/day10` — Real-world Go project structure
 - `week2/day11` — Configuration & Environment variables
-
+- `week2/day12` — Flags + Envronment Variables (Production-Ready Config)
 ---
 
 ## ▶️ How to Run Each Day
