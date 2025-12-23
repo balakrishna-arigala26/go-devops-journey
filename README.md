@@ -20,7 +20,27 @@ The goal is to move from Go fundamentals to production-ready patterns used in re
 ✔ Day 10 — Real-world Go project structure (`cmd/`, `internal/`, dependency injection)  
 ✔ Day 11 — Configuration & Environment Variables (12-Factor App: Config)  
 ✔ Day 12 — Flags + Environment Variables (priority-based configuration)  
-✔ Day 13 — Graceful shutdown & OS signal handling (SIGINT, SIGTERM) 
+✔ Day 13 — Graceful Shutdown & OS signal handling (SIGINT, SIGTERM)  
+✔ Day 14 — HTTP Server with Graceful Shutdown (Go for DevOps)
+
+### Concepts  
+- net/http  
+- OS signal handling  
+- Graceful shutdown  
+- Kubernetes-ready services  
+
+### Run  
+```bash  
+go run main.go  
+```  
+
+### Test  
+```bash  
+curl http://localhost:9090  
+```
+
+
+
 
 ---
 
@@ -36,9 +56,10 @@ The goal is to move from Go fundamentals to production-ready patterns used in re
 - `week1/day8` — Interfaces & polymorphism
 - `week1/day9` — Error handling in Go
 - `week1/day10` — Real-world Go project structure
-- `week2/day11` — Configuration & Environment variables
-- `week2/day12` — Flags + Envronment Variables (Production-Ready Config)  
-- `week2/day13` — Graceful Shutdown & OS Signals(Production Essential)
+- `week2/day11` — Configuration & Environment Variables
+- `week2/day12` — Flags + Environment Variables (Production-Ready Config)  
+- `week2/day13` — Graceful Shutdown & OS Signals (Production Essential)  
+- `week2/day14` — HTTP Server with Graceful Shutdown 
 
 ---
 
